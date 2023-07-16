@@ -128,7 +128,7 @@ html, body
 }
 
 
-.styles_industries_container__Urxj1
+.ServiceOfferedPlaces
 {
   display: flex;
   flex-flow: row wrap;
@@ -870,7 +870,7 @@ display: flex;
     z-index: 999999999;
     
     height: 56px;
-    
+    width: 375px;
     padding-left: 10px;
     padding-top: 10px;
     display: flex;
@@ -892,7 +892,7 @@ display: flex;
     z-index: 9999;
   }
   
-  .styles_industries_container__Urxj1
+  .ServiceOfferedPlaces
   {
     /* padding: 0; */
     display: flex;
